@@ -1,4 +1,4 @@
 # Basic-Repository
 might delete later
-Looks cool
+**Looks cool**
 Haha
